@@ -1,0 +1,2 @@
+def get_chain_length():
+    return len(blockchain.chain)
